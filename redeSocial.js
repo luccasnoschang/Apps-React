@@ -42,7 +42,7 @@ export default function App() {
     <View style={styles.header}>
 
       <View style={styles.headerTitulo}>
-        <Text style={{color:`white`, fontSize:20,}}>Rede Social foda</Text>
+        <Text style={{color:`white`, fontSize:20,}}>Rede Social</Text>
       </View>
 
         <View style={styles.headerIcons}>
