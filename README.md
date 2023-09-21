@@ -1,4 +1,4 @@
-📱 Aplicativos React Native 
+# 📱 Aplicativos React Native 
 
 Bem-vindo ao meu repositório de aplicativos desenvolvidos com React Native durante o meu curso de Técnico de Análise e Desenvolvimento de Sistemas. Neste repositório, você encontrará uma coleção de projetos que demonstram minhas habilidades em desenvolvimento mobile.
 
