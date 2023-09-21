@@ -8,4 +8,4 @@ Neste repositório, compartilho os aplicativos que criei ao longo do meu curso, 
 
 Espero que você encontre esses aplicativos úteis e inspiradores em sua jornada de desenvolvimento móvel.
 
-[![GitHub stars](https://img.shields.io/github/stars/seu-username/luccasnoschang.svg?style=social)](https://github.com/luccasnoschang/Apps-React)
+[![GitHub stars](https://img.shields.io/github/stars/seu-username/luccasnoschang.svg?style=social)](https://github.com/luccasnoschang)
